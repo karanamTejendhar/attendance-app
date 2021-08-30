@@ -16,4 +16,4 @@ prospective users and use cases, this is a very
 efficient way to represent the functioning of the
 application .
 
-
+![ServerSide](serverside.png)
