@@ -17,5 +17,5 @@ efficient way to represent the functioning of the
 application .
 
 ![ServerSide](serverside.png)
-![ClientSide](clientside.png)
+![ClientSide](client side.png)
 
